@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demo Builder"
+  short_description: "Cue-locked narrated Manim demos"
+  default_prompt: "Use $demo-builder to build a source-grounded, cue-locked Manim demo and show me the complete keyframes before final rendering."
