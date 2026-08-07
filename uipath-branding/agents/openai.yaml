@@ -1,0 +1,4 @@
+interface:
+  display_name: "UiPath Branding"
+  short_description: "Apply UiPath brand design language"
+  default_prompt: "Use $uipath-branding to create a UiPath-branded design direction for this asset."
